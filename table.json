@@ -1,0 +1,19 @@
+[
+  {
+    "Book": Fundamentals of Thermodynamics,
+    "Authors": "Michael J. Moran
+Howard N. Shapiro",
+    "Attributes": "Concept builder
+Practical Examples"
+  },
+  {
+    "Book": The Compound Effect,
+    "Authors": "Darren Hardy",
+    "Attributes": "How small steps can lead to a greater success"
+  },
+  {
+    "Book": Getting started with R,
+    "Authors": "Murtaza Haider",
+    "Attributes": "The art of storytelling"
+  }
+]
