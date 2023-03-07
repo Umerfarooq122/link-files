@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<books>
-    <book1>
-        <ID>1</ID>
-        <Title>Fundamentals of Thermodynamics</Title>
-    <Author1>Michael J. Moran</Author1>
-        <Author2>Howard N. Shapiro</Author2>
-        <PublishYr>1998</PublishYr>
-        <Edition>NA</Edition>
-        <Subject>Nature</Subject>
-        <Statement>The remarkable story of the fungus kingdom and its impact on human affairs</Statement>
-    </book1>
-    <book2>
-    <ID>2</ID>
-        <Title>Ecological Restoration</Title>
-    <Author1>Clewell Andre F</Author1>
-        <Author2>James Aronson</Author2>
-        <PublishYr>2007</PublishYr>
-        <Edition>NA</Edition>
-        <Subject>Nature</Subject>
-        <Statement>Priciples, Values, and Structure of an Emerging Profession</Statement>
-    </book2>
-    <book3>
-        <ID>3</ID>
-        <Title>Environmental Science</Title>
-    <Author1>Cunningham William P</Author1>
-        <Author2>Cunningham Mary Ann</Author2>
-        <PublishYr>2008</PublishYr>
-        <Edition>10</Edition>
-        <Subject>Nature</Subject>
-        <Statement>A Global Concern</Statement>
-    </book3>
-</books>
+<book>
+<book1>
+ <ID>1</ID>
+ <Title>Fundamentals of Thermodynamics</Title>
+ <Author1>Michael J. Moran</Author1>
+ <Author2>Howard N. Shapiro</Author2>
+ <Year_pub>1998</Year_pub>
+ <Edition>NA</Edition>
+ <Subject>Engineering</Subject>
+ </book1>
+<book2>
+ <ID>2</ID>
+ <Title>The Compound Effect</Title>
+ <Author1>Darren Hardy</Author1>
+ <Author2>NA</Author2>
+ <Year_pub>2000</Year_pub>
+ <Edition>NA</Edition>
+ <Subject>Self-development</Subject>
+ </book2>
+<book1>
+ <ID>3</ID>
+ <Title>Getting started with R</Title>
+ <Author1>Murtaza Haider</Author1>
+ <Author2>NA</Author2>
+ <Year_pub>1998</Year_pub>
+ <Edition>NA</Edition>
+ <Subject>Data</Subject>
+ </book1>
+ </book>
