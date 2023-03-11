@@ -1,9 +1,9 @@
 { 
-   "ID":["1","2","3"],
+   "ID":[1,2,3],
    "Book":["Fundamentals of Thermodynamics","Relic","Heads you lose" ],
    "Author1":["Michael J. Moran","Lincoln Child","Lisa Lutz"],
    "Author2":["Howard N. Shapiro","Douglas Preston","David Hayward"],
-   "Year_Pub":[ "2020","2019","2017"],
+   "Year_Pub":[ 2020,2019,2017],
    "Edition":[ "Eight","First","First"],
    "Subject":[ "Engineering","Fiction","Data Science"]
 
