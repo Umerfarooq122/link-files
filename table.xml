@@ -12,7 +12,7 @@
  <ID>2</ID>
  <Book>The Compound Effect</Book>
  <Author1>Darren Hardy</Author1>
- <Author2>null</Author2>
+ <Author2>NULL</Author2>
  <Year_Pub>2019</Year_Pub>
  <Edition>First</Edition>
  <Subject>Self-development</Subject>
@@ -21,7 +21,7 @@
  <ID>3</ID>
  <Book>Getting started with R</Book>
  <Author1>Murtaza Haider</Author1>
- <Author2>null</Author2>
+ <Author2>NULL</Author2>
  <Year_Pub>2017</Year_Pub>
  <Edition>First</Edition>
  <Subject>Data Science</Subject>
