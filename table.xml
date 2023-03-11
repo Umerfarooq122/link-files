@@ -10,18 +10,18 @@
  </book1>
 <book2>
  <ID>2</ID>
- <Book>The Compound Effect</Book>
- <Author1>Darren Hardy</Author1>
- <Author2>xsi:nil</Author2>
+ <Book>Relic</Book>
+ <Author1>Lincoln Child</Author1>
+ <Author2>Douglas Preston</Author2>
  <Year_Pub>2019</Year_Pub>
  <Edition>First</Edition>
- <Subject>Self-development</Subject>
+ <Subject>Fiction</Subject>
  </book2>
 <book3>
  <ID>3</ID>
- <Book>Getting started with R</Book>
- <Author1>Murtaza Haider</Author1>
- <Author2>xsi:nil</Author2>
+ <Book>Heads you lose</Book>
+ <Author1>Lisa Lutz</Author1>
+ <Author2>David Hayward</Author2>
  <Year_Pub>2017</Year_Pub>
  <Edition>First</Edition>
  <Subject>Data Science</Subject>
