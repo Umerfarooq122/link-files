@@ -2,7 +2,7 @@
    "ID":["1","2","3"],
    "Book":["Fundamentals of Thermodynamics","The Compound Effect","Getting started with R" ],
    "Author1":["Michael J. Moran","Darren Hardy","Murtaza Haider"],
-   "Author2":["Howard N. Shapiro","null","null"],
+   "Author2":["Howard N. Shapiro",null,null],
    "Year_Pub":[ "2020","2019","2017"],
    "Edition":[ "Eight","First","First"],
    "Subject":[ "Engineering","Self-development","Data Science"]
