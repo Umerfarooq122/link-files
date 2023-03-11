@@ -10,7 +10,7 @@
  </book1>
 <book2>
  <ID>2</ID>
- <Title>The Compound Effect</Book>
+ <Book>The Compound Effect</Book>
  <Author1>Darren Hardy</Author1>
  <Author2>NA</Author2>
  <Year_Pub>2019</Year_Pub>
@@ -19,7 +19,7 @@
  </book2>
 <book1>
  <ID>3</ID>
- <Title>Getting started with R</Book>
+ <Book>Getting started with R</Book>
  <Author1>Murtaza Haider</Author1>
  <Author2>NA</Author2>
  <Year_Pub>2017</Year_Pub>
