@@ -1,10 +1,10 @@
 <book>
 <book1>
  <ID>1</ID>
- <Title>Fundamentals of Thermodynamics</Title>
+ <Book>Fundamentals of Thermodynamics</Title>
  <Author1>Michael J. Moran</Author1>
  <Author2>Howard N. Shapiro</Author2>
- <Year_pub>2020</Year_pub>
+ <Year_Pub>2020</Year_Pub>
  <Edition>Eight</Edition>
  <Subject>Engineering</Subject>
  </book1>
@@ -13,7 +13,7 @@
  <Title>The Compound Effect</Title>
  <Author1>Darren Hardy</Author1>
  <Author2>NA</Author2>
- <Year_pub>2019</Year_pub>
+ <Year_Pub>2019</Year_Pub>
  <Edition>First</Edition>
  <Subject>Self-development</Subject>
  </book2>
@@ -22,8 +22,8 @@
  <Title>Getting started with R</Title>
  <Author1>Murtaza Haider</Author1>
  <Author2>NA</Author2>
- <Year_pub>2017</Year_pub>
- <Edition>NA</Edition>
+ <Year_Pub>2017</Year_Pub>
+ <Edition>First</Edition>
  <Subject>Data Science</Subject>
  </book1>
  </book>
