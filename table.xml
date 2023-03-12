@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <book>
 <book1>
- <ID>1.0</ID>
+ <ID xs:decimal>1</ID>
  <Book>Fundamentals of Thermodynamics</Book>
  <Author1>Michael J. Moran</Author1>
  <Author2>Howard N. Shapiro</Author2>
- <Year_Pub>2020.0</Year_Pub>
+ <Year_Pub xs:decimal >2020.0</Year_Pub>
  <Edition>Eight</Edition>
- <Subject>Engineering</Subject>
+ <Subject> Engineering</Subject>
  </book1>
 <book2>
- <ID>2.0</ID>
+ <ID xs:decimal >2.0</ID>
  <Book>Relic</Book>
  <Author1>Lincoln Child</Author1>
  <Author2>Douglas Preston</Author2>
- <Year_Pub>2019.0</Year_Pub>
+ <Year_Pub> xs:decimal 2019.0</Year_Pub>
  <Edition>First</Edition>
  <Subject>Fiction</Subject>
  </book2>
 <book3>
- <ID>3.0</ID>
+ <ID xs:decimal >3.0</ID>
  <Book>Heads you lose</Book>
  <Author1>Lisa Lutz</Author1>
  <Author2>David Hayward</Author2>
- <Year_Pub>2017.0</Year_Pub>
+ <Year_Pub xs:decimal >2017.0</Year_Pub>
  <Edition>First</Edition>
  <Subject>Data Science</Subject>
  </book3>
